@@ -1,1 +1,1 @@
-# Coursera-Simple-Interest-Calculator
+# coding-project-template
